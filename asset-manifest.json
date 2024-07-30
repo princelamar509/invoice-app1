@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/invoice-app1/static/css/main.3725412d.css",
+    "main.js": "/invoice-app1/static/js/main.2e89e47c.js",
+    "static/js/239.3c4609fd.chunk.js": "/invoice-app1/static/js/239.3c4609fd.chunk.js",
+    "static/js/213.fc001e63.chunk.js": "/invoice-app1/static/js/213.fc001e63.chunk.js",
+    "static/js/732.ff837021.chunk.js": "/invoice-app1/static/js/732.ff837021.chunk.js",
+    "static/js/453.b0ad41cb.chunk.js": "/invoice-app1/static/js/453.b0ad41cb.chunk.js",
+    "index.html": "/invoice-app1/index.html",
+    "main.3725412d.css.map": "/invoice-app1/static/css/main.3725412d.css.map",
+    "main.2e89e47c.js.map": "/invoice-app1/static/js/main.2e89e47c.js.map",
+    "239.3c4609fd.chunk.js.map": "/invoice-app1/static/js/239.3c4609fd.chunk.js.map",
+    "213.fc001e63.chunk.js.map": "/invoice-app1/static/js/213.fc001e63.chunk.js.map",
+    "732.ff837021.chunk.js.map": "/invoice-app1/static/js/732.ff837021.chunk.js.map",
+    "453.b0ad41cb.chunk.js.map": "/invoice-app1/static/js/453.b0ad41cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3725412d.css",
+    "static/js/main.2e89e47c.js"
+  ]
+}
